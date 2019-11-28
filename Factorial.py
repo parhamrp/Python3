@@ -18,85 +18,7 @@ else:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
 # _promt_value_ = int(input('enter an intger number to calculate the factorial:'))
 # #  initialize the first value.
 # final_value = 1
@@ -151,33 +73,6 @@ else:
 #             continue
 #       elif any_value
 #       for 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # input_value  = int(input('enter a number:'))
 # copy_of_prompt = str(input_value)
 # flag = False
@@ -187,44 +82,3 @@ else:
 #             input_value = int(input('enter a number:'))
 #             flag = True
 #       elif input_value == 0:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
