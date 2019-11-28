@@ -1,6 +1,102 @@
-# #  getting integer value from user and calculate
-# #  factorial of the number. using 'for' loop.
-# #  getting value from user.
+#  getting integer value from user and calculate
+#  factorial of the number. using 'for' loop.
+#  getting value from user.
+any_number = int(input('enter an integer number:'))
+initial_value = 1
+while any_number < 0:
+      print ('input is less than zero!')
+      any_number = int(input('enter a bigger number than zero:'))
+
+if  any_number == 0:
+      print('0! is 1')
+            
+else: 
+      copy_of_value = str(any_number)
+      for item in range (1, any_number+1):
+            initial_value = initial_value * item
+      print (copy_of_value+'!','is',initial_value)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # _promt_value_ = int(input('enter an intger number to calculate the factorial:'))
 # #  initialize the first value.
 # final_value = 1
@@ -91,26 +187,19 @@
 #             input_value = int(input('enter a number:'))
 #             flag = True
 #       elif input_value == 0:
-            
 
 
-any_number = int(input('enter an integer number:'))
-initial_value = 1
-while any_number < 0:
-      print ('input is less than zero!')
-      any_number = int(input('enter a bigger number than zero:'))
-
-if  any_number == 0:
-      print('0! is 1')
-            
-else: 
-      copy_of_value = str(any_number)
-      for item in range (1, any_number+1):
-            initial_value = initial_value * item
-      print (copy_of_value+'!','is',initial_value)
 
 
-      
+
+
+
+
+
+
+
+
+
 
 
 
