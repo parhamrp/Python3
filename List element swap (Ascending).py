@@ -1,4 +1,4 @@
-# # Ascending sort for a list.
+# # Ascending soprt for a list.
 # def list_element_swap_asc(sample_list):
       
 #     my_list = sample_list[:]
