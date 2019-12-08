@@ -4,5 +4,5 @@ def palindrome(MyString):
 	return first_half == second_half[::-1]
 
 
-print(palindrome('helleh'))
-print(palindrome('8008'))
+# print(palindrome('helleh'))
+# print(palindrome('8008'))
